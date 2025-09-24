@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+presidio-analyzer
+transformers
+pydantic
+httpx
+loguru
